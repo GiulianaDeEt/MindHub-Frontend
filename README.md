@@ -49,7 +49,7 @@
   <summary><H3>Tecnologías utilizadas:</H3></summary>
   <ul>
   <li>HTML5</li>
-  <li>CSS3</li>
+  <li>CSS</li>
   </ul>
   </details>
   
