@@ -1,0 +1,77 @@
+html {
+    color: #282727;
+    font-family: Roboto;
+    font-size: 20px;
+    letter-spacing:3px;
+    text-decoration: none;
+}
+
+header {
+    position: relative;
+    background-image: url(./informacion/design1_image2.jpg);
+    background-position: center center;
+    max-width: 100%;
+    margin-top: 6%;
+}
+.logo2{
+    position: relative;
+    top: 300px;
+}
+.link1{
+    position:relative;
+    left: 887px;
+    bottom: 250px;
+    font-size: 25px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0.5%;
+    border: 2px solid #0000;    
+    box-shadow: #282727 6px 6px 5px 1px;
+}
+
+.link1:link {
+    color: #282727;
+    font-weight: bold;
+    background: #98b6e4;
+}
+.link1:hover{
+    color: #282727;
+    font-weight: bold;
+    background: yellow;
+}
+.link1:visited {
+    color: #282727;
+    font-weight: bold;
+    background: #7ed876;
+}
+
+.name2 {
+    position: absolute;
+    bottom: 245px;
+    font-size: 55px;
+    color: #282727;
+}
+
+.titulo2{
+    position: relative;
+    background-color: #282727;
+    color: whitesmoke;
+    bottom: 40px;
+    text-align: center;
+    font-size: 35px;
+}
+.evento {
+    position: relative;
+    bottom: 50px;
+    left: 250px;
+    width: 80%;
+}
+
+
+.mail1:link {
+    color: red;
+}
+.mail1:hover {
+    color: yellow;
+    text-decoration: none;
+}

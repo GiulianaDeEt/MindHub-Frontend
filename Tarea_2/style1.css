@@ -1,0 +1,84 @@
+html {
+    color: #282727;
+    font-family: Roboto;
+    font-size: 20px;
+    letter-spacing:3px;
+    text-decoration: none;
+}
+
+header {
+    position: relative;
+    background-image: url(./informacion/design1_image1.jpg);
+    background-position: center center;
+    max-width: 100%;
+    margin-top: -2%;
+}
+.logo1 {
+    position: relative;
+    transform: translate(950px, 250px);
+    max-height: 100%;
+    z-index: 1;
+    margin-right: 950px;
+}
+
+.name1 {
+    position: absolute;
+    bottom: 120px;
+    font-size: 65px;
+    text-shadow: -3px 0px 6px #f41313;
+    color: yellow;
+}
+
+.link1 {
+    display: block;
+    position: relative;
+    top: 220px;
+    margin-left: 2%;
+    margin-top: 25px;
+    font-size: 25px;
+}
+
+.link1:link {
+    color:#282727;
+    text-decoration: under;
+}
+.link1:hover {
+    color: yellow;
+    text-decoration: none;
+}
+.link1:active {
+    color:red;
+}
+/* .link1:visited {
+    color:#137b7b;
+    text-decoration: under;
+} */
+
+main {
+    position: relative;
+    text-align: left;
+}
+
+.titulo1{
+    position: relative;
+    background-color: #282727;
+    color: whitesmoke;
+    bottom: 40px;
+    text-align: center;
+    font-size: 45px;
+}
+
+.evento {
+    position: relative;
+    text-align: left;
+    bottom: 50px;
+    left: 250px;
+}
+
+.mail1:link {
+    color: red;
+}
+.mail1:hover {
+    color: yellow;
+    text-decoration: none;
+}
