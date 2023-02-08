@@ -34,14 +34,22 @@
   <ul>
   <li>Crear estilo 1 css. ✓</li>
   <li>Crear estilo 2 css. ✓</li>
-  <li>Crear estilo 3 css. </li>
+  <li>Crear estilo 3 css. ✓</li>
   </ul>
   
   <H4>Tercera etapa "TASK 3". </H4>
   <ul>
   <li>Crear página html rules. ✓</li>
   <li>Crear página html schedule. ✓</li>
-  <li>Completar con estilo 3 css. </li>
+  <li>Completar con estilo 3 css. ✓</li>
+  </ul>
+  </details>
+  
+  <H4>Cuarta etapa "TASK 4". </H4>
+  <ul>
+  <li>Crear página formulario registration. ✓</li>
+  <li>Agregar mapas en página schedule. ✓</li>
+  <li>Agregar imágenes. </li>
   </ul>
   </details>
   
