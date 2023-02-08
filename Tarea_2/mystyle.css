@@ -195,7 +195,7 @@ html {
     font-size: 20px;
     letter-spacing:2px;
     background-color: #f6df2e;
-    margin-right:17%;
+    margin-right: 17%;
     margin-left: 17%;
     display:flex; 
     justify-content: center;
@@ -205,12 +205,11 @@ html {
 header {
     position: relative;
     background-image: url(./informacion/design1_image2.jpg);
-    background-color: red;
-    background-position: -150px -120px ;
+    background-position: -150px -120px;
     box-shadow: 0px 0px 13px 3px rgba(0,0,0,0.38);
     margin-top: 23%; 
-    margin-left: -15%;
-    margin-right: -15%;
+    margin-left: -20%;
+    margin-right: -20%;
 }
 .logo1 {
     position: relative;
@@ -254,12 +253,13 @@ nav {
 main {
     position: relative;
     background-color: rgb(241, 240, 240);
-    margin-left: -15%;
-    margin-right: -15%;
+    margin-left: -20%;
+    margin-right: -20%;
     margin-bottom: 5%;
-    box-shadow: 0px 5px 13px 3px rgba(0,0,0,0.38);
+    box-shadow: 0px 0px 13px 3px rgba(0,0,0,0.38);
     padding: 3%;
     line-height: 35px;
+    z-index:1;
 }
 .titulo1 {
     text-align: center;
@@ -286,6 +286,32 @@ main {
 .mail:hover {
     color: #6d988f;
     text-decoration: none;
+}
+
+/* ---------FOOTER--------- */
+footer{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content:center;
+    background-image: url(./informacion/design1_image1.jpg);
+    background-position: -150px -890px ;
+    box-shadow: 0px 3px 13px 3px rgba(0,0,0,0.38);
+    padding: 3%;
+    margin-top: -5%; 
+    margin-left: -20%;
+    margin-right: -20%;
+    margin-bottom: 10%;
+}
+.titlefoot{
+    color:#f6df2e;
+    font-family: 'Iceberg', cursive;
+    font-size: 40px;
+    word-spacing: 10px;
+    text-shadow: 2px -2px 1px #1e1714;
+}
+.imgfoot{
+    margin-left: 10%;
 }
 
 /* ---------TABLA--------- */
