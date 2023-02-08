@@ -32,10 +32,11 @@ header {
 .link1 {
     display: block;
     position: relative;
-    top: 220px;
+    top: 330px;
     margin-left: 2%;
     margin-top: 25px;
     font-size: 25px;
+    z-index: 1;
 }
 
 .link1:link {
