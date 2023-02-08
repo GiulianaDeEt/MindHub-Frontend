@@ -314,6 +314,38 @@ footer{
     margin-left: 10%;
 }
 
+/* ---------CAROUSEL IMG--------- */
+.slider-frame{
+    width: 25%;
+    height: 25%;    
+    margin: 50px auto  0;
+    overflow:hidden;
+}
+.slider-frame ul{
+    display: flex;
+    padding: 0;
+    width: 300%;
+
+    animation: slider 12s infinite alternate ease-in-out;
+}
+.slider-frame li{
+    list-style: none;
+    width: 100%;
+}
+.slider-frame img{
+    width: 100%;
+}
+@keyframes slider{
+    0% {margin-left: 0%}
+    30% {margin-left: 0%}
+    
+    35% {margin-left: -100%}
+    65% {margin-left: -100%}
+    
+    70% {margin-left: -200%}
+    100% {margin-left: -200%}
+}
+
 /* ---------TABLA--------- */
 table {
     table-layout: fixed;
