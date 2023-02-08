@@ -43,7 +43,6 @@
   <li>Crear página html schedule. ✓</li>
   <li>Completar con estilo 3 css. ✓</li>
   </ul>
-  </details>
   
   <H4>Cuarta etapa "TASK 4". </H4>
   <ul>
