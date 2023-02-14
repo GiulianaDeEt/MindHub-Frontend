@@ -8,7 +8,7 @@
   
 <p align="center">Estaré actualizando todas las semanas hasta la finalización del curso.</p>
 <p align="start">
-  <img alt="endesarrollo" src=https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green>
+  <img alt="completado" src=https://img.shields.io/badge/STATUS-COMPLETADO-brightgreen>
 </p>  
   
 
@@ -48,7 +48,7 @@
   <ul>
   <li>Crear página formulario registration. ✓</li>
   <li>Agregar mapas en página schedule. ✓</li>
-  <li>Agregar imágenes. </li>
+  <li>Agregar imágenes. ✓</li>
   </ul>
   </details>
   
